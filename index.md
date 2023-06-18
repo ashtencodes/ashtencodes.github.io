@@ -9,13 +9,13 @@ banner_subtitle: Roboticist, Entrepreneur, and Researcher based in Hawai'i.
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
-page_url: /ashtencodes.github.io # only include this variable if you aren't building the page to your primary domain 
+#page_url: /ashtencodes.github.io # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
+twitter_username: ashtenaught # # your twitter handle
 github_username:  ashtencodes # your github username
 linkedin: ashtenakemoto # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
