@@ -38,7 +38,7 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 cta: Connect # the heading for your CTA section
 cta_description: I would love to connect! Reach out to me here. # a description to be desplayed below the heading and above the content
 cta_button: mailto:ashakemoto@gmail.com # a link to an external website or to media
-cta_button_label: contact # the label on the button
+cta_button_label: Contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
